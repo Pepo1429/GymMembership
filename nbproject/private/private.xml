@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/membershipmanagment/ManagerController.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Pepo/Documents/NetBeansProjects/MembershipManagment/src/membershipmanagment/MembershipManagementGUI.java</file>
+            <file>file:/C:/Users/Pepo/Documents/NetBeansProjects/MembershipManagment/src/membershipmanagment/Repo.java</file>
+            <file>file:/C:/Users/Pepo/Documents/NetBeansProjects/MembershipManagment/src/membershipmanagment/ManagerController.java</file>
+            <file>file:/C:/Users/Pepo/Documents/NetBeansProjects/MembershipManagment/src/membershipmanagment/createMember.java</file>
+            <file>file:/C:/Users/Pepo/Documents/NetBeansProjects/MembershipManagment/src/membershipmanagment/MemberFactory.java</file>
+            <file>file:/C:/Users/Pepo/Documents/NetBeansProjects/MembershipManagment/src/membershipmanagment/PlatinumMembership.java</file>
+            <file>file:/C:/Users/Pepo/Documents/NetBeansProjects/MembershipManagment/src/membershipmanagment/MembershipManagment.java</file>
+            <file>file:/C:/Users/Pepo/Documents/NetBeansProjects/MembershipManagment/src/membershipmanagment/SilverMembership.java</file>
+            <file>file:/C:/Users/Pepo/Documents/NetBeansProjects/MembershipManagment/src/membershipmanagment/MemberRepoImpl.java</file>
+            <file>file:/C:/Users/Pepo/Documents/NetBeansProjects/MembershipManagment/src/membershipmanagment/GoldMembership.java</file>
+        </group>
+    </open-files>
+</project-private>
